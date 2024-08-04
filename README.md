@@ -12,7 +12,13 @@ I’m currently deepening my knowledge in advanced C++ programming, exploring to
 
 💞️ **Collaboration & Open Source**
 
-I am actively involved in open-source projects through the Google Summer of Code (GSoC) program, where I contribute to community-driven projects and collaborate with developers worldwide. I’m particularly interested in working on projects that combine robust C++ backend solutions with engaging frontend interfaces. If you have ideas for full-stack applications, need help with C++ optimization, or want to collaborate on open-source initiatives, feel free to reach out!
+I'm open to collaborating on:
+
+Open-source projects like GSSoC
+
+Innovative coding projects
+
+Hackathons and coding competitions
 
 
 📫 **How to Reach Me**
