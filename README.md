@@ -1,37 +1,97 @@
-**👋 Hi, I’m Amit Kumar (@iim-amit)**
 
-👀 **About Me**
+<h3 align="center">I'm passionate about coding and constantly exploring new technologies</h3>
+<div align="right">
+<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" align="right" style="width: 50%" />
+</div>  
 
-I’m a passionate coder with a strong focus on C++ and frontend technologies. My journey in programming has equipped me with the skills to tackle complex algorithms and build intuitive user interfaces. I thrive on solving challenging problems and developing software solutions that make a difference.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatikumari4312&label=Profile%20views&color=0e75b6&style=flat" alt="swatikumari4312" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/amit-kumar-09725b2b0/" target="blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="Amit Kumar LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://leetcode.com/u/iim_amit/" target="blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         alt="iim_amit LeetCode"
+         height="30"
+         width="40" />
+  </a>
+</p>
 
 
-🌱 **Current Learning**
+---
 
-I’m currently deepening my knowledge in advanced C++ programming, exploring topics like memory management, concurrency, and high-performance computing. On the frontend side, I’m delving into modern frameworks such as React and Vue.js to create responsive and dynamic web applications. My goal is to bridge the gap between efficient backend processing and seamless user experiences.
+<h3 align="left">🛠️ Tech Stack</h3>
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img width="12" />
 
-💞️ **Collaboration & Open Source**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
 
-I'm open to collaborating on:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
+  <img width="12" />
 
-Open-source projects like GSSoC
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
 
-Innovative coding projects
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
 
-Hackathons and coding competitions
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
+  <img width="12" />
 
-📫 **How to Reach Me**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
 
-You can connect with me via:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
 
-**Email**: 6661kumaramit@gmail.com
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
 
-**LinkedIn**:https://www.linkedin.com/in/amit-kumar-09725b2b0/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
 
-😄**Pronouns**
+</div>
 
-He/Him
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+
+---
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
