@@ -78,7 +78,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,Issues)
 
 ---
 
