@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm passionate about coding and constantly exploring new technologies</h3>
 <div align="right">
-<img width="182" height="129" src="https://github.com/user-attachments/assets/45aefd5e-1c4f-462f-82ab-4f6e98be1a72" align="right"  />
+<img width="200" height="130" src="https://github.com/user-attachments/assets/1c8a6b3d-110d-4d75-b673-9e12b7675b82" align="right"  />
 </div>  
 
 
