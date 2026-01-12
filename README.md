@@ -1,12 +1,16 @@
 
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/aef233cd-873a-43b4-bd7d-42a2d3de4269" />
+
+
 <h3 align="center">I'm passionate about coding and constantly exploring new technologies</h3>
 <div align="right">
-<img src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" align="right" style="width: 50%" />
+<img width="182" height="129" src="https://github.com/user-attachments/assets/45aefd5e-1c4f-462f-82ab-4f6e98be1a72" align="right"  />
 </div>  
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatikumari4312&label=Profile%20views&color=0e75b6&style=flat" alt="swatikumari4312" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+ 🌐Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/amit-kumar-09725b2b0/" target="blank">
     <img align="center"
@@ -28,7 +32,7 @@
 
 ---
 
-<h3 align="left">🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -77,15 +81,17 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=true&no-bg=true&margin-w=4&title=Stars,Followers,Commits,Repositories,Issues)
 
----
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+# 📊GitHub Stats :
+![GitHub Streak](https://streak-stats.demolab.com/?user=iim-amit&theme=dark)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=iim-amit&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
 
