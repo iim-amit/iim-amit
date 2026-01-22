@@ -1,10 +1,9 @@
 
-<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/aef233cd-873a-43b4-bd7d-42a2d3de4269" />
+<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/683192d6-0e88-471d-8128-5a37f0a11793" />
 
 
 <h3 align="center">I'm passionate about coding and constantly exploring new technologies</h3>
 <div align="right">
-<img width="200" height="130" src="https://github.com/user-attachments/assets/1c8a6b3d-110d-4d75-b673-9e12b7675b82" align="right"  />
 </div>  
 
 
