@@ -1,102 +1,117 @@
-
+<!-- ===================== HERO SECTION ===================== -->
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/683192d6-0e88-471d-8128-5a37f0a11793" />
 
+<h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 
-<h3 align="center">I'm passionate about coding and constantly exploring new technologies</h3>
-<div align="right">
-</div>  
+<p align="center">
+  <b>Full Stack Developer | Problem Solver | Tech Explorer</b>
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Exploring+AI+%26+Web3;Clean+Code+%7C+Modern+UI+%7C+Performance" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swatikumari4312&label=Profile%20views&color=0e75b6&style=flat" alt="swatikumari4312" /> </p>
+<h3 align="center">I'm passionate about coding and constantly exploring new technologies 🚀</h3>
 
- 🌐Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/amit-kumar-09725b2b0/" target="blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="Amit Kumar LinkedIn"
-         height="30"
-         width="40" />
+---
+
+## 📊 Profile Overview
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iim-amit&label=Profile%20Views&color=6366f1&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⭐%20GitHub%20Stars-500%2B-ec4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🍴%20Forks-120%2B-10b981?style=for-the-badge" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amit-kumar-09725b2b0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://leetcode.com/u/iim_amit/" target="blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-         alt="iim_amit LeetCode"
-         height="30"
-         width="40" />
+  <a href="https://leetcode.com/u/iim_amit/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-ec4899?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
+---
+
+## ✨ What I Do (Core Strengths)
+
+<table>
+<tr>
+<td>⚡ <b>Full Stack Development</b><br/>Modern, scalable web apps</td>
+<td>🎨 <b>Clean UI/UX</b><br/>Minimal, responsive designs</td>
+<td>🚀 <b>Performance Focused</b><br/>Optimized & secure code</td>
+</tr>
+<tr>
+<td>🧠 <b>Problem Solving</b><br/>DSA & system thinking</td>
+<td>🔗 <b>API Design</b><br/>REST & backend systems</td>
+<td>🌱 <b>Continuous Learning</b><br/>AI, Web3 & new tech</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,java,nodejs,mongodb,mysql,js,html,css,git,figma,c,cpp" />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
+<details>
+<summary><b>🔍 Hover to explore stack details</b></summary>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
+- **Frontend:** Next.js, React, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Java  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, Postman, Figma  
+- **Languages:** C, C++  
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-
-</div>
+</details>
 
 ---
 
+## 📊 GitHub Stats
 
-
-# 📊GitHub Stats :
-![GitHub Streak](https://streak-stats.demolab.com/?user=iim-amit&theme=dark)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=iim-amit&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=iim-amit&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=iim-amit&theme=onestar&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Thanks for visiting my profile — feel free to explore my repositories! ✨</b>
+</p>
+
+<!-- 🥚 Easter Egg: Hover slowly, great things take time 😉 -->
+<!-- 🥚 Easter Egg: Hover slowly, great things take time 😉 -->
 
 
 <!-- <div style='display:flex; align-items:center; gap: 10px;' align='center'>
